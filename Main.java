@@ -127,6 +127,7 @@ public class Main {
 		FileWriter fw = new FileWriter(file);
 		BufferedWriter bw = new BufferedWriter(fw);
 		bw.write(res);
+		bw.close();
 		JOptionPane.showMessageDialog(null, "File created with the code for your custom embed at " + file.getAbsolutePath());
 	}
 
