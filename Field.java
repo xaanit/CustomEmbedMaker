@@ -2,7 +2,7 @@ package me.xaanit.customembedmaker;
 
 public class Field {
 	
-	private String title;
+	private String teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeewwweeeeeeeeeeitle;
 	
 	private String value;
 	
