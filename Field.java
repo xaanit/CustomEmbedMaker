@@ -21,7 +21,7 @@ public class Field {
 		return this.title;
 	}
 	
-	public String getValuee() {
+	public String getValueeeee() {
 		return this.value;
 	}
 
